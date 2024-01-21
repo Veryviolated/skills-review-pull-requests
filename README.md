@@ -1,4 +1,4 @@
-<header>
+<header>org.web3j.crypto.Credentials
 
 <!--
   <<< Author notes: Course header >>>
